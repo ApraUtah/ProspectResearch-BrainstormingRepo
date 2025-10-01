@@ -1,0 +1,8 @@
+# Paid vs. Free
+Part of the goal of this project is to make free tools available as much as possible, but considering the ubiquity of paid tools in the fundraising space, the prospect research toolkit also has a secondary goal to provide education and tutorials for resources like iWave or Nexis for Development Professionals. 
+
+The benefit of the toolkit, I think, is having many resources all in the same place.
+
+## Long-term
+
+One day, I'd like to have free software available for truly small shops - a natural phase 2 or 3 of this toolkit, which is currently just being initialized and collated as a library of stuff.
